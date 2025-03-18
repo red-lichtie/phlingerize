@@ -2,6 +2,7 @@
 
 Modify ARK Survival game configurations using [Phlinger](https://www.youtube.com/@Phlinger)'s setting for an improved gaming experience.
 
+`phlingerize.ps1` is a Windows Powershell script.
 
 Basic usage:
 ```shell
@@ -45,3 +46,5 @@ phlingerize.ps1 'GameUserSettings-ARK.ini' 'C:\Program Files (x86)\Steam\steamap
   * For ASA and ASE
 * Game-ASA.ini
   * For ASA only
+
+The script is licenced under the GPLv3.
