@@ -46,6 +46,8 @@ phlingerize.ps1 'GameUserSettings-ARK.ini' 'C:\Program Files (x86)\Steam\steamap
 
 * GameUserSettings-ARK.ini
   * For ASA and ASE
+* GameUserSettings-ARK-DayCycleSpeed.ini
+  * Change the speed of day and night
 * Game-ASA.ini
   * For ASA only
 
