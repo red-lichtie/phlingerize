@@ -2,6 +2,8 @@
 
 Modify ARK Survival game configurations using [Phlinger](https://www.youtube.com/@Phlinger)'s setting for an improved gaming experience.
 
+He explains his settings in this YouTube video: [Best Single Player Settings in Ark Survival Ascended in 2025](https://www.youtube.com/watch?v=vD8fxCATqhg).
+
 `phlingerize.ps1` is a Windows Powershell script.
 
 Basic usage:
